@@ -16,7 +16,8 @@
       "Bash(git push *)",
       "WebFetch(domain:woblight.gitlab.io)",
       "WebFetch(domain:gitlab.com)",
-      "Bash(git commit -m 'v1.1.0 — Engineering corrigido + Rogue Lockpicking pack novo *)"
+      "Bash(git commit -m 'v1.1.0 — Engineering corrigido + Rogue Lockpicking pack novo *)",
+      "Bash(git commit -m 'fix: versao corrigida para 1.1.0-ptBR-112d \\(mantendo sufixo 112d\\) *)"
     ]
   }
 }

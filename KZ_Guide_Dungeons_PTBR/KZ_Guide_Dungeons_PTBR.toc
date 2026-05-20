@@ -2,7 +2,7 @@
 ## Title: |cFF2ecc40KZ Guide|r - Dungeons PTBR (Template)
 ## Notes: Pack editavel para criar guias de dungeons compativeis com KZ Guide
 ## Author: Gerado por IA a partir da base do addon do usuario
-## Version: 1.1.0-ptBR
+## Version: 1.1.0-ptBR-112d
 ## Dependencies: KZ_Guide
 
 init.lua
