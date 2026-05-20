@@ -101,6 +101,25 @@ Pull requests sao bem-vindos! Se encontrar erros nos guias (receitas erradas, co
 
 ---
 
+## Apoie o Projeto
+
+Se o guia te ajudou e voce quiser contribuir com o desenvolvimento, qualquer doacao e muito bem-vinda!
+
+### PIX
+
+**Kevin Schwanke Sousa Da Rocha**
+
+Copie o codigo abaixo e cole no seu banco (PIX Copia e Cola):
+
+```
+00020126990014br.gov.bcb.pix0136e5c7ef8d-248d-45c1-a349-0b61f044d7b70237Cofrinho de Kevin Schwanke Sousa Da R5204000053039865802BR5925Kevin Schwanke Sousa Da R6015Laranjal do Jar61086892000062270523COFRNjc2MjA5MjkwMDAwMDg6304A421
+```
+
+### Ko-fi
+
+*(em breve)*
+
+---
 ## Licenca
 
 Uso livre para fins educacionais e em servidores privados de WoW Vanilla.
