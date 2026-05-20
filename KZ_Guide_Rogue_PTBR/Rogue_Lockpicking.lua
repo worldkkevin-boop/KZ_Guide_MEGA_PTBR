@@ -20,7 +20,7 @@ GLV:RegisterGuide(
 [110-150] Arrome baus ate 150 — Windshear Mine / Durnholde / Wetlands [SK Lockpicking 150]
 
 [OC]|cFFFFD700Dica:|r Beba |cFFFF6600Noggenfogger Elixir|r (compre em Tanaris com Sprinkle Noggenfogger [G 51, 28 Tanaris]) — se virar caveira, voce respira debaixo d'agua sem se afogar!
-[OC]|cFFFF6600Principal:|r Desolace — |cFFFF6600Sar'theris Strand|r [G 19, 38 Desolace] (7 Waterlogged Chest submersos, |cFFFFD700CD: ~3 min|r, cuidado com monstros e afogamento).
+[OC]|cFFFF6600Principal:|r Desolace — |cFFFF6600Sar'theris Strand|r [G 36.6, 22.1 Desolace] (7 Waterlogged Chest submersos, |cFFFFD700CD: ~3 min|r, cuidado com monstros e afogamento).
 [OC]|cFFFF6600Alternativa A:|r Badlands — |cFFFF6600Angor Fortress|r (Worn Chest 150-175 andar sup, Battered Chest 175-200 andar inf).
 [OC]|cFFFF6600Alternativa B:|r Swamp of Sorrows — |cFFFF6600Atal'Hakkar|r (Mossy Chest, a partir de 175).
 [150-200] Arrome baus ate 200 — Desolace / Badlands / Swamp of Sorrows [SK Lockpicking 200]
