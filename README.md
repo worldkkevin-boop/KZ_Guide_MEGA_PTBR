@@ -20,16 +20,51 @@ Desenvolvido para o servidor **SandWorlds** (interface 11200 / build 5875).
 
 ---
 
-## Como instalar
+## Instalacao via GitAddonsManager (Recomendado)
 
-1. Baixe ou clone este repositorio
-2. Copie as pastas desejadas para:
+O **GitAddonsManager** instala e atualiza o addon automaticamente a partir do GitHub.
+
+### 1. Baixar o GitAddonsManager
+
+Acesse e baixe a versao mais recente:
+> https://woblight.gitlab.io/overview/gitaddonsmanager/
+
+### 2. Configurar a pasta do WoW
+
+Abra o GitAddonsManager e defina o caminho da sua pasta de AddOns:
+```
+D:/jogos/WoW-SandWorlds/Interface/AddOns
+```
+
+### 3. Adicionar o KZ Guide
+
+Clique no botao **+** e cole a URL do repositorio:
+```
+https://github.com/worldkkevin-boop/KZ_Guide_MEGA_PTBR.git
+```
+
+Clique em **OK** — o manager vai baixar e instalar todos os packs automaticamente.
+
+### 4. Ativar no jogo
+
+Inicie o WoW, va para a tela de selecao de personagem e ative os addons.
+No jogo use `/kz show` para abrir o guia.
+
+### Atualizar
+
+Sempre que houver uma nova versao, abra o GitAddonsManager e clique no botao de **atualizar** (icone de seta circular) ao lado do KZ_Guide_MEGA_PTBR. O jogo precisa ser reaberto ou `/reload` apos a atualizacao.
+
+---
+
+## Instalacao Manual (alternativa)
+
+1. Baixe o ZIP do repositorio: **Code > Download ZIP**
+2. Extraia todas as pastas para:
 ```
 WoW\Interface\AddOns\
 ```
-3. O addon principal `KZ_Guide` e **obrigatorio** — os packs dependem dele
-4. Inicie o jogo e ative os addons na tela de selecao de personagem
-5. No jogo: `/kz show` para abrir o guia
+3. Ative os addons na tela de selecao de personagem
+4. No jogo: `/kz show`
 
 ---
 
@@ -62,7 +97,7 @@ WoW\Interface\AddOns\
 
 ## Contribuindo
 
-Pull requests sao bem-vindos! Se encontrar erros nos guias (receitas erradas, coordenadas, traducos) abra uma issue ou envie um PR.
+Pull requests sao bem-vindos! Se encontrar erros nos guias (receitas erradas, coordenadas, traducoes) abra uma issue ou envie um PR.
 
 ---
 
