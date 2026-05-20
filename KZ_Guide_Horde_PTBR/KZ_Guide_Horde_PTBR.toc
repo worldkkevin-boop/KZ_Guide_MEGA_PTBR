@@ -1,0 +1,58 @@
+## Interface: 11200
+## Title: |cFF2ecc40KZ Guide|r - Guia Horda
+## Notes: Guia de leveling Horda 1-60 em portugues por Kevinzinho
+## Author: Kevinzinho (base: RestedXP Guides)
+## Version: 1.0.0-ptBR
+## Dependencies: KZ_Guide
+
+init.lua
+Horde_Guide_1-6_Durotar.lua
+Horde_Guide_1-6_Mulgore.lua
+Horde_Guide_1-6_Tirisfal_Glades.lua
+Horde_Guide_1-7_Durotar.lua
+Horde_Guide_1-7_Mulgore.lua
+Horde_Guide_1-7_Tirisfal_Glades.lua
+Horde_Guide_10-12_Durotar.lua
+Horde_Guide_10-12_Tirisfal.lua
+Horde_Guide_11-14_Silverpine_Forest.lua
+Horde_Guide_12-17_The_Barrens.lua
+Horde_Guide_13-20_The_Barrens.lua
+Horde_Guide_17-22_Stonetalon_Barrens_Ashenvale.lua
+Horde_Guide_20-24_Stonetalon_Barrens.lua
+Horde_Guide_22-24_Hillsbrad.lua
+Horde_Guide_23-24_Hillsbrad_Class_Quests.lua
+Horde_Guide_24-26_Southern_Barrens_Stonetalon.lua
+Horde_Guide_26-28_Ashenvale.lua
+Horde_Guide_28-30_Thousand_Needles.lua
+Horde_Guide_30-33_Hillsbrad_Arathi.lua
+Horde_Guide_33-34_Shimmering_Flats.lua
+Horde_Guide_34-35_Desolace.lua
+Horde_Guide_35-37_Northern_Stranglethorn.lua
+Horde_Guide_37-38_Dustwallow_Marsh.lua
+Horde_Guide_38-39_Alterac_Arathi.lua
+Horde_Guide_39-40_Badlands.lua
+Horde_Guide_40-41_Stranglethorn_Vale.lua
+Horde_Guide_41-41_Desolace_II.lua
+Horde_Guide_41-41_Swamp_of_Sorrows.lua
+Horde_Guide_41-43_Tanaris_Dustwallow.lua
+Horde_Guide_43-44_Feralas.lua
+Horde_Guide_44-45_Southern_Stranglethorn.lua
+Horde_Guide_45-46_Swamp_of_Sorrows.lua
+Horde_Guide_46-48_Tanaris.lua
+Horde_Guide_48-49_The_Hinterlands.lua
+Horde_Guide_49-50_Feralas.lua
+Horde_Guide_50-51_Stranglethorn_Blasted_Lands.lua
+Horde_Guide_51-52_Searing_Gorge_Burning_Steppes.lua
+Horde_Guide_52-53_Azshara.lua
+Horde_Guide_53-54_Felwood.lua
+Horde_Guide_54-55_Un_Goro_Crater.lua
+Horde_Guide_55-56_Felwood_Winterspring.lua
+Horde_Guide_56-58_Western_PL_Eastern_PL.lua
+Horde_Guide_59-59_Winterspring_Silithus_I.lua
+Horde_Guide_59-60_Winterspring_Silithus_II.lua
+Horde_Guide_6-10_Durotar.lua
+Horde_Guide_6-11_Tirisfal_Glades.lua
+Horde_Guide_6-12_Mulgore.lua
+Horde_Guide_7-13_Durotar.lua
+Horde_Guide_7-13_Mulgore.lua
+Horde_Guide_7-13_Tirisfal_Glades.lua

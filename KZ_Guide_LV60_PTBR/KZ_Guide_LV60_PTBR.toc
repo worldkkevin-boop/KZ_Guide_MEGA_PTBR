@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: |cFF2ecc40KZ Guide|r - LV60 Endgame PTBR
+## Notes: Guia de Endgame Nivel 60 para KZ Guide em Portugues BR
+## Author: Kevinzinho
+## RequiredDeps: KZ_Guide
+LV60_Endgame.lua
+LV60_Endgame_Rogue.lua

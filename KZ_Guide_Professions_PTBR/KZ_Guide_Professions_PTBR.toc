@@ -1,0 +1,22 @@
+## Interface: 11200
+## Title: |cFF2ecc40KZ Guide|r - Profissoes
+## Notes: Guias de profissoes 1-300 integrados por Kevinzinho
+## Author: Kevinzinho (baseado em cralor/TourGuide_Professions)
+## Version: 1.0.0-ptBR
+## Dependencies: KZ_Guide
+
+init.lua
+Profession_Alchemy.lua
+Profession_Blacksmithing.lua
+Profession_Cooking_Alliance.lua
+Profession_Cooking_Horde.lua
+Profession_Enchanting.lua
+Profession_Engineering.lua
+Profession_FirstAid.lua
+Profession_Fishing.lua
+Profession_Leatherworking.lua
+Profession_Survival.lua
+Profession_Tailoring.lua
+Profession_Mining.lua
+Profession_Herbalism.lua
+Profession_Skinning.lua

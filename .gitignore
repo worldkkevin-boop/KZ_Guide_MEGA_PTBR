@@ -1,0 +1,19 @@
+﻿# Windows
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# macOS
+.DS_Store
+.AppleDouble
+
+# Editors
+*.bak
+*.tmp
+*.swp
+.vscode/
+.idea/
+
+# WoW saved variables (nao versionar dados de save do jogo)
+SavedVariables/
+*.lua.bak

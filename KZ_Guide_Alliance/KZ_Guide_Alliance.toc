@@ -1,0 +1,58 @@
+﻿## Interface: 11200
+## Title: |cFF2ecc40KZ Guide|r - Guia Alliance 1-60 PT-BR
+## Notes: Guia Kevin 1-60 Alliance PT-BR revisado e empacotado por Kevinzinho
+## Author: Kevinzinho (creditos: Kevin)
+## Version: 2.0.0-ptBR-final
+## Dependencies: KZ_Guide
+
+init.lua
+KZ_guia_1-11_Dun_Morogh.lua
+KZ_guia_1-11_Elwynn_Forest.lua
+KZ_guia_1-11_Teldrassil.lua
+KZ_guia_11-13_Loch_Modan.lua
+KZ_guia_11-19_Darkshore.lua
+KZ_guia_12-14_Westfall.lua
+KZ_guia_14-17_Loch_Modan.lua
+KZ_guia_19-20_Redridge.lua
+KZ_guia_20-23_Duskwood.lua
+KZ_guia_23-24_Wetlands.lua
+KZ_guia_24-25_Ashenvale.lua
+KZ_guia_25-27_Stockades.lua
+KZ_guia_27-28_Wetlands.lua
+KZ_guia_28-30_Duskwood.lua
+KZ_guia_30-31_Hillsbrad.lua
+KZ_guia_31-32_Thousand_Needles.lua
+KZ_guia_32-32_Stranglethorn.lua
+KZ_guia_32-33_Hillsbrad.lua
+KZ_guia_33-35_Desolace.lua
+KZ_guia_35-36_Dustwallow.lua
+KZ_guia_36-37_Stranglethorn.lua
+KZ_guia_37-38_Alterac.lua
+KZ_guia_38-39_Arathi.lua
+KZ_guia_39-40_Badlands.lua
+KZ_guia_40-42_Stranglethorn.lua
+KZ_guia_42-43_Swamp_of_Sorrows.lua
+KZ_guia_43-44_Tanaris.lua
+KZ_guia_44-46_Feralas.lua
+KZ_guia_46-46_Hinterlands.lua
+KZ_guia_46-47_Searing_Gorge.lua
+KZ_guia_47-48_Blasted_Lands.lua
+KZ_guia_48-49_Tanaris.lua
+KZ_guia_49-49_Feralas.lua
+KZ_guia_49-50_Felwood.lua
+KZ_guia_50-50_Azshara.lua
+KZ_guia_50-51_Western_Plaguelands.lua
+KZ_guia_51-51_Burning_Steppes.lua
+KZ_guia_51-51_Stranglethorn_Vale.lua
+KZ_guia_51-53_Un'goro_Crater.lua
+KZ_guia_53-53_Feralas,_Felwood.lua
+KZ_guia_53-54_Winterspring.lua
+KZ_guia_54-54_Burning_Steppes.lua
+KZ_guia_54-55_Plaguelands.lua
+KZ_guia_55-55_Loose_Ends.lua
+KZ_guia_55-56_Winterspring.lua
+KZ_guia_56-57_Plaguelands.lua
+KZ_guia_57-58_Blackrock_Depths.lua
+KZ_guia_58-59_Silithus.lua
+KZ_guia_59-60_Winterspring.lua
+KZ_guia_60_Endgame.lua

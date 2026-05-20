@@ -1,0 +1,32 @@
+## Interface: 11200
+## Title: |cFF2ecc40KZ Guide|r - Dungeons PTBR (Template)
+## Notes: Pack editavel para criar guias de dungeons compativeis com KZ Guide
+## Author: Gerado por IA a partir da base do addon do usuario
+## Version: 1.0.0-template
+## Dependencies: KZ_Guide
+
+init.lua
+README_COMO_EDITAR_PTBR.txt
+Dungeon_Ragefire_Chasm.lua
+Dungeon_Wailing_Caverns.lua
+Dungeon_The_Deadmines.lua
+Dungeon_Shadowfang_Keep.lua
+Dungeon_Blackfathom_Deeps.lua
+Dungeon_The_Stockade.lua
+Dungeon_Gnomeregan.lua
+Dungeon_Razorfen_Kraul.lua
+Dungeon_Scarlet_Monastery.lua
+Dungeon_Uldaman.lua
+Dungeon_Razorfen_Downs.lua
+Dungeon_Zul_Farrak.lua
+Dungeon_Maraudon.lua
+Dungeon_The_Temple_of_Atal_Hakkar.lua
+Dungeon_Blackrock_Depths.lua
+Dungeon_Lower_Blackrock_Spire.lua
+Dungeon_Dire_Maul.lua
+Dungeon_Scholomance.lua
+Dungeon_Stratholme.lua
+Dungeon_Upper_Blackrock_Spire.lua
+Dungeon_Wailing_Caverns_ALY.lua
+Dungeon_Shadowfang_Keep_ALY.lua
+Dungeon_Scarlet_Monastery_ALY.lua
