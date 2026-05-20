@@ -2,7 +2,7 @@
 ## Title: |cFF2ecc40KZ Guide|r - Guia Alliance 1-60 PT-BR
 ## Notes: Guia Kevin 1-60 Alliance PT-BR revisado e empacotado por Kevinzinho
 ## Author: Kevinzinho (creditos: Kevin)
-## Version: 2.0.0-ptBR-final
+## Version: 1.1.0-ptBR
 ## Dependencies: KZ_Guide
 
 init.lua

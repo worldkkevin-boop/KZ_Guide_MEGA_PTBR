@@ -1,4 +1,4 @@
-## Interface: 11200
+﻿## Interface: 11200
 ## Title: |cFF2ecc40KZ Guide|r - LV60 Endgame PTBR
 ## Notes: Guia de Endgame Nivel 60 para KZ Guide em Portugues BR
 ## Author: Kevinzinho

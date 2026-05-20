@@ -1,8 +1,8 @@
-## Interface: 11200
+﻿## Interface: 11200
 ## Title: |cFF2ecc40KZ Guide|r - Grimorio Medieval
 ## Notes: Guia completo WoW 1.12 em PT-BR | Tema Medieval | PartySync KZGUIDE | Patch 1.12 por Kevinzinho
 ## Author: Kevinzinho
-## Version: 1.0.4-ptBR-112d
+## Version: 1.1.0-ptBR
 ## DefaultState: enabled
 ## SavedVariables: KZGuideGlobalDB, KZ_GuideGlobalDB
 ## SavedVariablesPerCharacter: KZGuideDB, KZ_GuideDB
