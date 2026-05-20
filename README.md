@@ -117,7 +117,7 @@ Copie o codigo abaixo e cole no seu banco (PIX Copia e Cola):
 
 ### Ko-fi
 
-*(em breve)*
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/worldkkevingmailcom)
 
 ---
 ## Licenca
