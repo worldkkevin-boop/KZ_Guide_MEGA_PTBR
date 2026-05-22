@@ -72,7 +72,7 @@ local function getContPosition( zoneData, z, x, y )
 	end
 	if ( z ~= 0 ) then
 		zoneData = zoneData[z];
-		if zoneData then
+		if zoneData and zoneData.xOffset and zoneData.yOffset then
 			x = x * zoneData.width + zoneData.xOffset;
 			y = y * zoneData.height + zoneData.yOffset;
 		end
@@ -163,9 +163,12 @@ function Astrolabe:TranslateWorldMapPosition( C, Z, xPos, yPos, nC, nZ )
 		zoneData = WorldMapSize[C];
 		xPos, yPos = getContPosition(zoneData, Z, xPos, yPos);
 		if ( nZ ~= 0 and zoneData[nZ] ~= nil) then
-			zoneData = zoneData[nZ];
-			xPos = xPos - zoneData.xOffset;
-			yPos = yPos - zoneData.yOffset;
+			local nzData = zoneData[nZ];
+			if nzData and nzData.xOffset and nzData.yOffset then
+				zoneData = nzData;
+				xPos = xPos - zoneData.xOffset;
+				yPos = yPos - zoneData.yOffset;
+			end
 		end
 	elseif ( C and nC) and (C < 3 and nC < 3) and ( WorldMapSize[C].parentContinent == WorldMapSize[nC].parentContinent )  then
 		-- different continents, same world
@@ -174,19 +177,26 @@ function Astrolabe:TranslateWorldMapPosition( C, Z, xPos, yPos, nC, nZ )
 		xPos, yPos = getContPosition(zoneData, Z, xPos, yPos);
 		if ( C ~= parentContinent ) then
 			-- translate up to world map if we aren't there already
-			xPos = xPos + zoneData.xOffset;
-			yPos = yPos + zoneData.yOffset;
+			if zoneData.xOffset and zoneData.yOffset then
+				xPos = xPos + zoneData.xOffset;
+				yPos = yPos + zoneData.yOffset;
+			end
 			zoneData = WorldMapSize[parentContinent];
 		end
 		if ( nC ~= parentContinent ) then
 			--translate down to the new continent
 			zoneData = WorldMapSize[nC];
-			xPos = xPos - zoneData.xOffset;
-			yPos = yPos - zoneData.yOffset;
-			if ( nZ ~= 0 and zoneData[nZ] ~= nil) then
-				zoneData = zoneData[nZ];
+			if zoneData and zoneData.xOffset and zoneData.yOffset then
 				xPos = xPos - zoneData.xOffset;
 				yPos = yPos - zoneData.yOffset;
+			end
+			if ( nZ ~= 0 and zoneData and zoneData[nZ] ~= nil) then
+				local nzData = zoneData[nZ];
+				if nzData and nzData.xOffset and nzData.yOffset then
+					zoneData = nzData;
+					xPos = xPos - zoneData.xOffset;
+					yPos = yPos - zoneData.yOffset;
+				end
 			end
 		end
 
